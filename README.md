@@ -20,7 +20,7 @@ We are attempting to use GitHub Pages to disseminate local information.
 
 ### かもん！カモねぎくん
 
-![かもん！カモねぎくん](https://ktctomcat.github.io/kamonegi/img/kamonegikun/kamonegikun_classic_color.png)
+![かもん！カモねぎくん](https://ktctomcat.github.io/assets/img/kamonegi-kun_classic_logo.png)
 
 [かもん！カモねぎくん](https://ktctomcat.github.io/kamonegi/)
 
