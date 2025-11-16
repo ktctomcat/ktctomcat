@@ -28,5 +28,5 @@ We are currently using GitHub Pages to create a website that will provide local 
 このサイトでは「かもん！カモねぎまつり」の情報やキャラクターの「カモねぎくん」に関連する画像データ等を公開しています。  
 是非訪れてみてください。
 
-This site provides information about the "Kamon! Kamonegi Festival" and image data related to the character "Kamonegi-kun."  
+This site provides information about the "Come on! Kamonegi Festival" and image data related to the character "Kamonegi-kun."  
 Please be sure to visit.
