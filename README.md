@@ -20,6 +20,8 @@ We are attempting to use GitHub Pages to disseminate local information.
 
 ### かもん！カモねぎくん
 
+![かもん！カモねぎくん](https://ktctomcat.github.io/kamonegi/img/kamonegikun/kamonegikun_classic_color.png)
+
 [かもん！カモねぎくん](https://ktctomcat.github.io/kamonegi/)
 
 ここは「かもん！カモねぎまつり」の情報やキャラクターの「カモねぎくん」に関連する画像データ等を公開しているサイトです。  
