@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 -->
+
 現在、GitHub Pages を使用して、地域情報を提供する Web サイトを作成しています。
 
 We are currently using GitHub Pages to create a website that will provide local information.
