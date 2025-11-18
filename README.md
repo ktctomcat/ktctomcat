@@ -30,3 +30,5 @@ I am trying to create a website using GitHub Pages to provide local information.
 
 This site provides information about the "Come on! Kamonegi Festival" and image data related to the character "Kamonegi-kun."  
 Please be sure to visit.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktctomcat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
