@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-GitHub Pages を用いて、地域情報等を提供する Web サイトの作成を試みています。
+GitHub Pages を用いて、地域情報等を発信する Web サイトの作成を試みています。
 
-I am trying to create a website that provides local information using GitHub Pages.
+I am trying to create a website using GitHub Pages to provide local information.
 
 ### かもん！カモねぎくん
 
