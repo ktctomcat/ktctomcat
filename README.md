@@ -32,5 +32,3 @@ This site provides information about the "Come on! Kamonegi Festival" and image 
 Please be sure to visit.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktctomcat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=ktctomcat&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
