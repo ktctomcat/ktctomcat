@@ -29,6 +29,6 @@ I am trying to create a website using GitHub Pages to provide local information.
 是非訪れてみてください。
 
 This site provides information about the "Come on! Kamonegi Festival," held every year on the first Sunday of December in the Katahigashi area of Nishikan Ward, Niigata City, Niigata Prefecture, Japan. It also features images of the mascot "Kamonegi-kun."  
-We invite you to visit us
+We invite you to visit us!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktctomcat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
