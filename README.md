@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![TomooDesign Works](https://ktctomcat.github.io/assets/img/logo.svg)
+![TomooDesign Works](https://ktctomcat.github.io/assets/img/logo_W.svg)
 
 GitHub Pages を用いて、地域情報等を発信する Web サイトの作成を試みています。
 
