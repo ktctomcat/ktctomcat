@@ -33,7 +33,7 @@ I am trying to create a website using GitHub Pages to provide local information.
 This site provides information about the "Come on! Kamonegi Festival," held every year on the first Sunday of December in the Katahigashi area of Nishikan Ward, Niigata City, Niigata Prefecture, Japan. It also features images of the mascot "Kamonegi-kun."  
 We invite you to visit us!
 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=johnmwendwa&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=ktctomcat&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktctomcat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
