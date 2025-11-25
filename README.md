@@ -35,8 +35,7 @@ We invite you to visit us!
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=ktctomcat&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktctomcat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
--->
