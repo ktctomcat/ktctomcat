@@ -36,3 +36,7 @@ We invite you to visit us!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktctomcat&stats_format=bytes)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktctomcat)
+
+
+## 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktctomcat&layout=compact&theme=default)
