@@ -40,3 +40,6 @@ We invite you to visit us!
 
 ## 📊 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktctomcat&layout=compact&theme=default)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usuiat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
