@@ -21,11 +21,15 @@ GitHub Pages を用いて、地域情報等を発信する Web サイトの作�
 
 I am trying to create a website using GitHub Pages to provide local information.
 
+<div style="text-align:center;">
+
 ### Come on!
 
 ![かもん！カモねぎくん](https://ktctomcat.github.io/assets/img/kamonegi-kun_classic_logo.png)
 
 [かもん！カモねぎくん](https://ktctomcat.github.io/kamonegi/)
+
+</div>
 
 このサイトでは「かもん！カモねぎまつり」の情報やキャラクターの「カモねぎくん」に関連する画像データ等を公開しています。  
 是非訪れてみてください。
