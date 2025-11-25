@@ -23,7 +23,7 @@ I am trying to create a website using GitHub Pages to provide local information.
 
 <div style="text-align:center;">
 
-### Come on!
+<h3>Come on!</h3>
 
 ![かもん！カモねぎくん](https://ktctomcat.github.io/assets/img/kamonegi-kun_classic_logo.png)
 
