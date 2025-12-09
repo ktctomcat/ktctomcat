@@ -21,7 +21,7 @@ GitHub Pages を用いて、地域情報等を発信する Web サイトの作�
 
 I am trying to create a website using GitHub Pages to provide local information.
 
-### Come on!!!!!
+### Come on!
 
 ![かもん！カモねぎくん](https://ktctomcat.github.io/assets/img/kamonegi-kun_classic_logo.png)
 
