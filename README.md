@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![TomooDesign Works](https://ktctomcat.github.io/assets/img/ogp.png)
 
+[TomoDesign Works](https://ktctomcat.github.io/)
+
 GitHub Pages を用いて、地域情報等を発信する Web サイトの作成を試みています。  
 TomoDesign Worksは、地域文化の記録と発信を目的としたWebプロジェクトです。
 
