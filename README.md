@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 [TomoDesign Works](https://ktctomcat.github.io/)
 
-GitHub Pages を用いて、地域情報等を発信する Web サイトの作成を試みています。  
-TomoDesign Worksは、地域文化の記録と発信を目的としたWebプロジェクトです。
-
 I am trying to create a website using GitHub Pages to provide local information.  
 TomoDesign Works is a web project aimed at recording and disseminating local culture.
+
+GitHub Pages を用いて、地域情報等を発信する Web サイトの作成を試みています。  
+TomoDesign Worksは、地域文化の記録と発信を目的としたWebプロジェクトです。
 
 ### Come on! KAMONEGI-KUN
 
@@ -33,10 +33,11 @@ TomoDesign Works is a web project aimed at recording and disseminating local cul
 
 [かもん！カモねぎくん](https://ktctomcat.github.io/kamonegi/)
 
+This site provides information about the "Come on! Kamonegi Festival," held every year on the first Sunday of December in the Katahigashi area of Nishikan Ward, Niigata City, Niigata Prefecture, Japan. It also features images of the mascot "Kamonegi-kun."  
+
 このサイトでは「かもん！カモねぎまつり」の情報やキャラクターの「カモねぎくん」に関連する画像データ等を公開しています。  
 是非訪れてみてください。
 
-This site provides information about the "Come on! Kamonegi Festival," held every year on the first Sunday of December in the Katahigashi area of Nishikan Ward, Niigata City, Niigata Prefecture, Japan. It also features images of the mascot "Kamonegi-kun."  
 We invite you to visit us!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktctomcat&layout=donut)
