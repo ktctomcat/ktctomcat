@@ -27,7 +27,7 @@ TomoDesign Worksは、地域文化の記録と発信を目的としたWebプロ�
 I am trying to create a website using GitHub Pages to provide local information.  
 TomoDesign Works is a web project aimed at recording and disseminating local culture.
 
-### Come on!
+### Come on! KAMONEGI-KUN
 
 ![かもん！カモねぎくん](https://ktctomcat.github.io/assets/img/kamonegi-kun_classic_logo.png)
 
