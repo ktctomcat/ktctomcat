@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am trying to create a website using GitHub Pages to provide local information. 
+
+GitHub Pages を用いて、地域情報等を発信する Web サイトの作成を試みています。  
+
 ### TomoDesign works
 
 <!--
@@ -20,11 +24,9 @@ Here are some ideas to get you started:
 ![TomooDesign Works](https://ktctomcat.github.io/assets/img/ogp.png)
 
 [TomoDesign Works](https://ktctomcat.github.io/)
-
-I am trying to create a website using GitHub Pages to provide local information.  
+ 
 TomoDesign Works is a web project aimed at recording and disseminating local culture.
 
-GitHub Pages を用いて、地域情報等を発信する Web サイトの作成を試みています。  
 TomoDesign Worksは、地域文化の記録と発信を目的としたWebプロジェクトです。
 
 ### Come on! KAMONEGI-KUN
