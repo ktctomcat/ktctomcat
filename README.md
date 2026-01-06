@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm currently creating a website to provide local information using GitHub Pages.
-I also occasionally use QGIS as a hobby.
+I'm currently using GitHub Pages to create a website that provides local information. 
+As a hobby, I also occasionally use QGIS and study plugins.
 
 GitHub Pages を用いて、地域情報等を発信する Web サイトの作成を試みています。  
-趣味で時々QGISも使っています。
+また、趣味で時々QGISの操作をしたり、プラグインの勉強をしています。
 
 ### TomoDesign works
 
