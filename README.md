@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently using GitHub Pages to create a website that provides local information. 　
+I'm currently using GitHub Pages to create a website that provides local information.  
 As a hobby, I also occasionally use QGIS and study plugins.
 
 GitHub Pages を用いて、地域情報等を発信する Web サイトの作成を試みています。  
