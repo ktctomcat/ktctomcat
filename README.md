@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-I am trying to create a website using GitHub Pages to provide local information. 
+I am trying to create a website using GitHub Pages to provide local information.  
+I also use QGIS occasionally as a hobby.
 
 GitHub Pages を用いて、地域情報等を発信する Web サイトの作成を試みています。  
+趣味で時々QGISも使っています。
 
 ### TomoDesign works
 
