@@ -41,7 +41,7 @@ We invite you to visit us!
 このサイトでは「かもん！カモねぎまつり」の情報やキャラクターの「カモねぎくん」に関連する画像データ等を公開しています。  
 是非訪れてみてください。
 
-### QGIS
+### QGIS & Spatial Data
 
 [OSGeo](https://www.osgeo.org/member/ito/)
 
