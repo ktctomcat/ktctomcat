@@ -45,8 +45,7 @@ We invite you to visit us!
 
 [OSGeo](https://www.osgeo.org/member/ito/)
 
-<img src="https://ktctomcat.github.io/kamonegi/img/logo/jp-ms-gc.png"/ width="50%">
-
+<img src="https://ktctomcat.github.io/kamonegi/img/logo/jp-ms-gc.png" width="50%" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktctomcat&layout=donut)
 
