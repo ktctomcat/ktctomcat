@@ -43,18 +43,7 @@ We invite you to visit us!
 
 ### GIS & Spatial Data
 
-
-<img src="https://ktctomcat.github.io/kamonegi/img/logo/jp-ms-gc.png" width="50%" />
-
 ![QGIS logo](https://ktctomcat.github.io/kamonegi/img/logo/jp-ms-gc.png))
-
-
-![QGIS logo](https://qgis.org/styleguide/visual/qgis-logo.svg)
-
-![QGIS logo](https://raw.githubusercontent.com/OSGeo/osgeo/master/marketing/branding/logo/osgeo-logo-rgb.png)
-
-
-
 
 [OSGeo](https://www.osgeo.org/member/ito/)
 
