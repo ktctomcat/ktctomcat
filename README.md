@@ -47,6 +47,10 @@ We invite you to visit us!
 
 ![QGIS logo](https://qgis.org/styleguide/visual/qgis-logo.svg)
 
+![QGIS logo](https://raw.githubusercontent.com/OSGeo/osgeo/master/marketing/branding/logo/osgeo-logo-rgb.png)
+
+
+
 
 [OSGeo](https://www.osgeo.org/member/ito/)
 
