@@ -43,6 +43,11 @@ We invite you to visit us!
 
 ### GIS & Spatial Data
 
+
+
+![QGIS logo](https://qgis.org/styleguide/visual/qgis-logo.svg)
+
+
 [OSGeo](https://www.osgeo.org/member/ito/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktctomcat&layout=donut)
