@@ -43,11 +43,13 @@ We invite you to visit us!
 
 ### GIS & Spatial Data
 
-[OSGeo](https://www.osgeo.org/member/ito/)
+#### JP Geocoding Lab
 
 <img src="https://ktctomcat.github.io/kamonegi/img/logo/jp-ms-gc.png" width="50%" />
 
 [jp-geocodng-lab](https://github.com/ktctomcat/jp-geocoding-lab)
+
+[OSGeo](https://www.osgeo.org/member/ito/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktctomcat&layout=donut)
 
