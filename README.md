@@ -41,9 +41,7 @@ We invite you to visit us!
 このサイトでは「かもん！カモねぎまつり」の情報やキャラクターの「カモねぎくん」に関連する画像データ等を公開しています。  
 是非訪れてみてください。
 
-### GIS & Spatial Data
-
-#### JP Geocoding Lab
+### JP Geocoding Lab
 
 <img src="https://ktctomcat.github.io/kamonegi/img/logo/jp-ms-gc.png" width="50%" />
 
