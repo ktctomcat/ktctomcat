@@ -47,6 +47,8 @@ We invite you to visit us!
 
 <img src="https://ktctomcat.github.io/kamonegi/img/logo/jp-ms-gc.png" width="50%" />
 
+[jp-geocodng-lab](https://github.com/ktctomcat/jp-geocoding-lab)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktctomcat&layout=donut)
 
 <!--
