@@ -48,11 +48,6 @@ We invite you to visit us!
 
 [jp-geocodng-lab](https://github.com/ktctomcat/jp-geocoding-lab)
 
-### 🗾Map Data
-
-<iframe src="https://www.google.com/maps/d/embed?mid=15A5MPWWW1VnXAQ_8YUI02weNliIXySk5&ehbc=2E312F" width="640" height="480"></iframe>
-
-
 ### 🌍️OSGeo
 
 [OSGeo](https://www.osgeo.org/member/ito/)
