@@ -50,7 +50,7 @@ We invite you to visit us!
 
 ### 🗾Map Data
 
-### OSGeo
+### 🌍️OSGeo
 
 [OSGeo](https://www.osgeo.org/member/ito/)
 
