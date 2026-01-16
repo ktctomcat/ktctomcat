@@ -4,6 +4,8 @@ I am try to create a website that provides local information, etc. Also, as a ho
 
 地域情報等を発信する Web サイトの作成を試みています。また、趣味として時々QGISの操作をしたり、プラグインの勉強をしています。
 
+---
+
 ### 🎨TomoDesign works
 
 <!--
