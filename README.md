@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![TomooDesign Works](https://ktctomcat.github.io/assets/img/ogp.png)
 
 
-🖼️[TomoDesign Works](https://ktctomcat.github.io/)
+[TomoDesign Works](https://ktctomcat.github.io/)
  
 TomoDesign Works is a web project aimed at recording and disseminating local culture.
 
