@@ -21,13 +21,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[TomoDesign Works](https://ktctomcat.github.io/)
+![TomooDesign Works](https://ktctomcat.github.io/assets/img/ogp.png)
+
+
+🖼️[TomoDesign Works](https://ktctomcat.github.io/)
  
 TomoDesign Works is a web project aimed at recording and disseminating local culture.
 
 TomoDesign Worksは、地域文化の記録と発信を目的としたWebプロジェクトです。
-
-🎨![TomooDesign Works](https://ktctomcat.github.io/assets/img/ogp.png)
 
 ### Come on! KAMONEGI-KUN
 
