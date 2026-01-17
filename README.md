@@ -1,4 +1,4 @@
-## Hi there 👋
+す## Hi there 👋
 
 I am try to create a website that provides local information, etc. Also, as a hobby, I occasionally use QGIS and study plugins.
 
@@ -59,15 +59,3 @@ We invite you to visit us!
 ### 🌍️OSGeo
 
 [OSGeo](https://www.osgeo.org/member/ito/)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktctomcat&layout=donut)
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktctomcat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktctomcat&layout=compact)
-
-[![Top langs](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=ktctomcat&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
--->
