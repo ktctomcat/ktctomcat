@@ -34,7 +34,7 @@ TomoDesign Worksは、地域文化の記録と発信を目的としたWebプロ�
 
 ---
 
-### 🦆Come on! KAMONEGI-KUN
+## 🦆Come on! KAMONEGI-KUN
 
 ![かもん！カモねぎくん](https://ktctomcat.github.io/assets/img/kamonegi-kun_classic_logo.png)
 
@@ -48,7 +48,7 @@ We invite you to visit us!
 
 ---
 
-### 📍JP Geocoding Lab
+## 📍JP Geocoding Lab
 
 <img src="https://ktctomcat.github.io/kamonegi/img/logo/jp-ms-gc.png" width="50%" />
 
@@ -56,6 +56,5 @@ We invite you to visit us!
 
 ---
 
-### 🌍️OSGeo
-
+## 🌍️OSGeo
 [OSGeo](https://www.osgeo.org/member/ito/)
