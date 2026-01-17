@@ -1,4 +1,4 @@
-す## Hi there 👋
+## Hi there 👋
 
 I am try to create a website that provides local information, etc. Also, as a hobby, I occasionally use QGIS and study plugins.
 
@@ -6,7 +6,7 @@ I am try to create a website that provides local information, etc. Also, as a ho
 
 ---
 
-### 🎨TomoDesign works
+## 🎨TomoDesign works
 
 <!--
 **ktctomcat/ktctomcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
