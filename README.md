@@ -8,11 +8,6 @@ I am try to create a website that provides local information, etc. Also, as a ho
 
 ## 🎨TomoDesign works
 
-<!--
-**ktctomcat/ktctomcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ![TomooDesign Works](https://ktctomcat.github.io/assets/img/ogp.png)
 
 
