@@ -37,9 +37,9 @@ We invite you to visit us!
 
 <img src="https://ktctomcat.github.io/kamonegi/img/logo/jp-ms-gc.png" width="50%" />
 
-日本国内で利用できるジオコーディングAPIを叩くスクリプト
+I am currently testing various scripts that access geocoding APIs for Japan.
 
-A script that calls geocoding APIs available in Japan
+日本国内向けのジオコーディングAPIを叩くスクリプトを、色々テストしています。
 
 [jp-geocodng-lab](https://github.com/ktctomcat/jp-geocoding-lab)
 
