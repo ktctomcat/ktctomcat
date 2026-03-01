@@ -39,6 +39,8 @@ We invite you to visit us!
 
 日本国内で利用できるジオコーディングAPIを叩くスクリプト
 
+A script that calls geocoding APIs available in Japan
+
 [jp-geocodng-lab](https://github.com/ktctomcat/jp-geocoding-lab)
 
 ---
