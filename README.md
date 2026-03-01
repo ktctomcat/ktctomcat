@@ -43,8 +43,6 @@ I am currently testing various scripts that access geocoding APIs for Japan.
 
 [jp-geocodng-lab](https://github.com/ktctomcat/jp-geocoding-lab)
 
----
-
 ### 🌍️OSGeo
 
 [OSGeo](https://www.osgeo.org/member/ito/)
