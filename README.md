@@ -37,6 +37,8 @@ We invite you to visit us!
 
 <img src="https://ktctomcat.github.io/kamonegi/img/logo/jp-ms-gc.png" width="50%" />
 
+日本国内で利用できるジオコーディングAPIを叩くスクリプト
+
 [jp-geocodng-lab](https://github.com/ktctomcat/jp-geocoding-lab)
 
 ---
