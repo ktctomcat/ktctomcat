@@ -39,7 +39,7 @@ We invite you to visit us!
 
 We have released a test script that calls geocoding APIs available in Japan.
 
-日本国内向けのジオコーディングAPIを叩くスクリプトを、色々テストしています。
+日本国内で利用できるジオコーディングAPIを叩くテスト用のスクリプトを公開しています。
 
 [jp-geocodng-lab](https://github.com/ktctomcat/jp-geocoding-lab)
 
