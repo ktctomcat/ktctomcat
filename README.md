@@ -37,7 +37,7 @@ We invite you to visit us!
 
 <img src="https://ktctomcat.github.io/kamonegi/img/logo/jp-ms-gc.png" width="50%" />
 
-This is a test script for the geocoding API, which can be used for free within Japan.
+This is a Python script for testing the geocoding API, which is available for free within Japan.
 
 日本国内で無料で利用出来るジオコーディングAPIのテスト用Pythonスクリプトです。  
 
