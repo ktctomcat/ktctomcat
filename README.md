@@ -39,7 +39,7 @@ We invite you to visit us!
 
 This is a test script for the geocoding API, which can be used for free within Japan.
 
-日本国内で無料で利用出来るジオコーディングAPIのテスト用スクリプトです。  
+日本国内で無料で利用出来るジオコーディングAPIのテスト用Pythonスクリプトです。  
 
 [jp-geocodng-lab](https://github.com/ktctomcat/jp-geocoding-lab)
 
