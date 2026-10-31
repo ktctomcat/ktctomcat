@@ -11,7 +11,7 @@ I am try to create a website that provides local information, etc. Also, as a ho
 ![TomooDesign Works](https://ktctomcat.github.io/assets/img/ogp.png)
 
 
-[TomoDesign Works](https://ktctomcat.github.io/)
+[TomoDesign Works](https://ktctomcat.github.io/kamonegi/tdw.html)
  
 TomoDesign Works is a web project aimed at recording and disseminating local culture.
 
