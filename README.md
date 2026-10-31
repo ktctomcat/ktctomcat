@@ -19,7 +19,7 @@ TomoDesign Worksは、地域文化の記録と発信を目的としたWebプロ�
 
 ### 🦆Come on! KAMONEGI-KUN
 
-![かもん！カモねぎくん](https://ktctomcat.github.io/kamonegi/icon/ogp.png)
+![かもん！カモねぎくん](https://ktctomcat.github.io/kamonegi/img/logo/kamonegi-kun_classic_logo.png)
 
 [かもん！カモねぎくん](https://ktctomcat.github.io/kamonegi/)
 
