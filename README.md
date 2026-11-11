@@ -8,7 +8,7 @@ I am try to create a website that provides local information, etc. Also, as a ho
 
 ## 🎨TomoDesign works
 
-![TomooDesign Works](https://ktctomcat.github.io/kamonegi/icon/tdw/ogp.png)
+![TomooDesign Works](https://ktctomcat.github.io/kamonegi/assets/icon/tdw/ogp.png)
 
 
 [TomoDesign Works](https://ktctomcat.github.io/kamonegi/tdw.html)
@@ -19,7 +19,7 @@ TomoDesign Worksは、地域文化の記録と発信を目的としたWebプロ�
 
 ### 🦆Come on! KAMONEGI-KUN
 
-![かもん！カモねぎくん](https://ktctomcat.github.io/kamonegi/img/logo/kamonegi-kun_classic_logo.png)
+![かもん！カモねぎくん](https://ktctomcat.github.io/kamonegi/assets/img/logo/kamonegi-kun_classic_logo.png)
 
 [かもん！カモねぎくん](https://ktctomcat.github.io/kamonegi/)
 
@@ -33,7 +33,7 @@ We invite you to visit us!
 
 ## 📍JP Geocoding Lab
 
-<img src="https://ktctomcat.github.io/kamonegi/img/logo/jp-ms-gc.png" width="50%" />
+<img src="https://ktctomcat.github.io/kamonegi/assets/img/logo/jp-ms-gc.png" width="50%" />
 
 This is a Python script for testing the geocoding API, which is available for free within Japan.
 
