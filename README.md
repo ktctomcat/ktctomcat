@@ -8,7 +8,7 @@ I am try to create a website that provides local information, etc. Also, as a ho
 
 ## 🎨TomoDesign works
 
-![TomooDesign Works](https://ktctomcat.github.io/kamonegi/assets/icon/tdw/ogp.png)
+![TomooDesign Works](https://ktctomcat.github.io/kamonegi/assets/icons/tdw/ogp.png)
 
 
 [TomoDesign Works](https://ktctomcat.github.io/kamonegi/tdw.html)
