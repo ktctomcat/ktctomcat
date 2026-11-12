@@ -33,7 +33,7 @@ We invite you to visit us!
 
 ## 📍JP Geocoding Lab
 
-<img src="https://ktctomcat.github.io/kamonegi/assets/img/logo/jp-ms-gc.png" width="50%" />
+<img src="https://ktctomcat.github.io/kamonegi/assets/images/etc/logo/jp-ms-gc.png" width="50%" />
 
 This is a Python script for testing the geocoding API, which is available for free within Japan.
 
